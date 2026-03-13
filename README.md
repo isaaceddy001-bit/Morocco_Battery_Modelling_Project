@@ -24,6 +24,7 @@ Another key finding was the overall wind power and battery contribution to total
 
 ## Assumptions
 Wind farm parameters: 30,000 kW capacity, cut-in 0.078 m/s, rated speed 5.5 m/s
+
 Battery parameters: 30,000 kW capacity, 900 kW rate limit, 80% efficiency, 50% starting charge
 
 ## Requirements
