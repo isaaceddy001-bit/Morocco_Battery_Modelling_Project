@@ -17,7 +17,7 @@ The battery model uses discharge, rate limit, efficiency and capacity to simulat
 
 ## Key Findings
 
-![Simulation Results]("Finalised Morocco Study Graph.png")
+![Simulation Results]("https://github.com/isaaceddy001-bit/Morocco_Battery_Modelling_Project/blob/main/Finalised%20Morocco%20Study%20Graph.png")
 
 The main key finding from this project is the significant difference between January and July model outputs. January showed limited wind power output, apart from a ramp up towards the end of the month. This meant that total consumption was widely equal to total shortfall across the majority of January, with the pattern towards month-end showing shortfall being pushed lower than consumption. The battery was also not charged throughout the month due to this, largely running on 0% capacity.
 
