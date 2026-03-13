@@ -16,6 +16,9 @@ The key methods used are a wind farm model and a battery model. The wind farm mo
 The battery model uses discharge, rate limit, efficiency and capacity to simulate a realistic industrial battery. The mechanism behind whether to charge or discharge is also dependent on the net consumption (wind power minus total consumption). Using this information, shortfall and annual demand of wind energy and battery discharge as a percentage of total consumption is calculated.
 
 ## Key Findings
+
+![Simulation Results]("C:\Users\ieddy\Downloads\Finalised Morocco Study Graph.png")
+
 The main key finding from this project is the significant difference between January and July model outputs. January showed limited wind power output, apart from a ramp up towards the end of the month. This meant that total consumption was widely equal to total shortfall across the majority of January, with the pattern towards month-end showing shortfall being pushed lower than consumption. The battery was also not charged throughout the month due to this, largely running on 0% capacity.
 
 On the other hand, July showed significant wind power output throughout the month, with a distinct pattern showing wind power making up a portion of total consumption, though shortfall being overall significant. While wind power was significantly more during this month, it was still not enough to enable battery charging.
